@@ -1,0 +1,4 @@
+this is requirements of chat applications
+emoji
+type options
+fonts
